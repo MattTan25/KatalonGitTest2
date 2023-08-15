@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Chrome 115.0.0.0,,,2023-08-15 11:09:07,2023-08-15 11:09:26,19.049s,PASSED
+,,,,,,,
+Test Cases/Test 1 by Matt,Chrome 115.0.0.0,,,2023-08-15 11:09:07,2023-08-15 11:09:16,8.707s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-15 11:09:07,2023-08-15 11:09:09,2.153s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 115.0.0.0,,,2023-08-15 11:09:09,2023-08-15 11:09:15,5.872s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-15 11:09:15,2023-08-15 11:09:16,0.588s,PASSED
+,,,,,,,
+Test Cases/Test 2 by Liz,Chrome 115.0.0.0,,,2023-08-15 11:09:16,2023-08-15 11:09:26,10.235s,PASSED
+"openBrowser(""https://katalon.com/"")",Chrome 115.0.0.0,,,2023-08-15 11:09:16,2023-08-15 11:09:25,9.583s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-15 11:09:25,2023-08-15 11:09:26,0.597s,PASSED
